@@ -3,6 +3,13 @@
 ### GitHub Repository Link
 > https://github.com/KeremYasar-DotKent/BlendInColour.KeremYasar.GameBasedLearningFinals/new/main?filename=README.md
 
+Team Members:
+Kerem Yaşar
+
+Sena Karaca
+
+Laiba Mohsan
+
 ---
 
 ## 1. Game Introduction
